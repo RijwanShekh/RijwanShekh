@@ -177,7 +177,7 @@ A modern, responsive business website developed for an automotive service provid
 
 
 ![Web Development](https://img.shields.io/badge/Web_Development-2563EB?style=flat-square)
-![Automotive ](https://img.shields.io/badge/Healthcare-059669?style=flat-square)
+![Automotive](https://img.shields.io/badge/Automotive-059660?style=flat-square)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
