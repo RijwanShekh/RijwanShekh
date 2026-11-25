@@ -108,39 +108,42 @@ I am passionate about building intelligent, scalable and innovative solutions us
 
 ---
 
-## 🔥 Featured Projects
 
-### 🏏 TurfSphere AI
+## 🚀 Featured Projects
 
-An intelligent turf booking and management platform powered by Agentic AI.
+<div align="center">
 
-- Real-time slot booking and availability
-- AI-powered customer support
-- Intelligent booking recommendations
-- Owner dashboard and reporting
-- Dynamic pricing and payment management
+<a href="https://github.com/RijwanShekh/Crawl2Answer">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RijwanShekh&repo=Crawl2Answer&theme=tokyonight&hide_border=true"/>
+</a>
 
-**Tech Stack:** LangGraph, Python, Supabase, React, FastAPI
+<a href="https://github.com/RijwanShekh/ChatBot-gpt-oss-20b">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RijwanShekh&repo=ChatBot-gpt-oss-20b&theme=tokyonight&hide_border=true"/>
+</a>
 
-[Explore Project](https://github.com/RijwanShekh/turf-sphere)
+<a href="https://github.com/RijwanShekh/genai-projects">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RijwanShekh&repo=genai-projects&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🧠 Intelligent RAG Applications
+<a href="https://github.com/RijwanShekh/Scrapping-Summarization">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RijwanShekh&repo=Scrapping-Summarization&theme=tokyonight&hide_border=true"/>
+</a>
 
-Retrieval-Augmented Generation applications for intelligent information retrieval and contextual question answering.
+<a href="https://github.com/RijwanShekh/Machine-Learning-Projects">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RijwanShekh&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true"/>
+</a>
 
-**Tech Stack:** LangChain, LLMs, Vector Databases, Python
+<a href="https://github.com/RijwanShekh/Data-Science-Projects">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RijwanShekh&repo=Data-Science-Projects&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🤖 Multi-Agent AI Systems
+<br/><br/>
 
-Intelligent agent-based workflows for research, reasoning, task execution and automation.
+<a href="https://github.com/RijwanShekh?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Tech Stack:** LangGraph, CrewAI, AutoGen, OpenAI
-
-### 🧪 AI-Powered Testing & Automation
-
-Exploring intelligent software testing, automated test execution and AI-assisted quality engineering.
-
-**Tech Stack:** Python, Java, Selenium, Generative AI
+</div>
 
 ---
 
