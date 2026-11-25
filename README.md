@@ -9,7 +9,20 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RijwanShekh&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/rijwan-shaikh-271b42158/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/RijwanShekh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:rijwanshaikh1804@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
 
 </div>
 
