@@ -192,19 +192,37 @@ Exploring intelligent software testing, automated test execution and AI-assisted
 
 ## 🌐 Connect With Me
 
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-<a href="https://github.com/RijwanShekh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### Let's connect, collaborate and build something innovative!
+
+<a href="https://www.linkedin.com/in/rijwan-shaikh-271b42158/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/RijwanShekh">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:rijwanshaikh1804@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+💬 Open to professional networking, AI collaborations and innovative projects.
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 Always Learning. Always Building. Always Evolving.
+ 💡 Always Learning. Always Building. Always Evolving.
 
 **Transforming ideas into intelligent solutions.**
 
